@@ -1,4 +1,4 @@
 # Contador  -atividade bootcamp Inter - DIO
-Atividade de ntegração de um código Javascript com uma página HTML e CSS.
+Atividade de integração: código Javascript + HTML e CSS.
 
  
